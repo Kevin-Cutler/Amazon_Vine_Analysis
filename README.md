@@ -8,3 +8,6 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
 Deliverable 3: A Written Report on the Analysis (README.md)
+
+
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
