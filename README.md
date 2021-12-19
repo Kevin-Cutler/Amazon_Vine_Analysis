@@ -2,9 +2,11 @@
 
 ## Overview of the analysis of the Vine program:
 
-Our work with Jennifer for SellBy was so succesful that we have been asked to parnter on a bigger project. Our new task will envolve analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+Our work with Jennifer for SellBy was so succesful that we have been asked to partner on a bigger project. Our new task will envolve analyzing Amazon reviews written by members of the paid Amazon Vine program. Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. These datasets can be massive and its alot of data to be stored on a single local computer.
 
-For this project we have been given approximately 50 datasets to analyze.  Each one contains reviews of a specific product, from clothing apparel to wireless products. You’ll need to pick one of these datasets and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, you’ll use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset. Then, you’ll write a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
+In my analysis I will leverage Google Colab notebooks to perform the ETL process completely in the cloud. I will run PySpark ETL commands and load a (video game dataset) from the Amazon reviews into an AWS RDS PostgreSQL. Once in PostgreSQL SQL I will  perform a statistical analysis on the data. My analysis is to determine if the reviews are valid or if there is any bias toward favorable reviews from Vine members to be uncovered through my review. For this project we have been given approximately 50 datasets to analyze. After my review I will provide a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
+
+  
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
