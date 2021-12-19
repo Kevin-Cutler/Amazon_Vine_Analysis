@@ -29,6 +29,10 @@ For this project we have been given approximately 50 datasets to analyze.  Each 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 
+#### Percentage 5 Star Vine Reviews = 37.5 %
+#### Percentage Non-Vine 5 Star Reviews = 58%
+
+
 <img width="650" alt="Percentage_fivestar review" src="https://user-images.githubusercontent.com/88467263/146683434-1f1ac489-99e1-449c-97c3-de4d4b0ebe85.PNG">
 
 
