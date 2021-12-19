@@ -37,6 +37,9 @@ In my analysis I will leverage Google Colab notebooks to perform the ETL process
 
 <img width="650" alt="Percentage_fivestar review" src="https://user-images.githubusercontent.com/88467263/146683434-1f1ac489-99e1-449c-97c3-de4d4b0ebe85.PNG">
 
+## Average Rating Vine vs Non - Vine Members
+
+<img width="700" alt="Avg_Rating" src="https://user-images.githubusercontent.com/88467263/146686165-06a29cb7-550b-48fa-abc0-cd832e9063b7.PNG">
 
 
 
