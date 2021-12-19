@@ -1,6 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis of the Vine program:
+______________________________________________________
 
 Our work with Jennifer for SellBy was so succesful that we have been asked to partner on a bigger project. Our new task will envolve analyzing Amazon reviews written by members of the paid Amazon Vine program. Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members who are then required to publish a review. These datasets can be massive and its alot of data to be stored on a single local computer.
 
@@ -9,6 +10,7 @@ In my analysis I will leverage Google Colab notebooks to perform the ETL process
   
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+______________________________________________________________________________________
 
 * How many Vine reviews and non-Vine reviews were there?
 
@@ -38,10 +40,14 @@ In my analysis I will leverage Google Colab notebooks to perform the ETL process
 <img width="650" alt="Percentage_fivestar review" src="https://user-images.githubusercontent.com/88467263/146683434-1f1ac489-99e1-449c-97c3-de4d4b0ebe85.PNG">
 
 ## Average Rating Vine vs Non - Vine Members
+__________________________________________
 
 <img width="700" alt="Avg_Rating" src="https://user-images.githubusercontent.com/88467263/146686165-06a29cb7-550b-48fa-abc0-cd832e9063b7.PNG">
 
 
 
-Summary: 
-In my analysis I can see that the difference between the number of Vine member reviews vs Non-Vine members review  is 1,777,415. Overall it seems like there were more reviews for each star rating that exists among Non-Vine members. Its seems that Non-Vine members are more likely to rate with 5 stars than Vine members which starts to show a bias. Among the Non-Vine members they are 58% more likely to give a star rating. Non-Vine members show a  37.5%  rating for giving 5 stars. Overall it seems that there is a more favorable out come to recieve a 5 star rating from Non-Vine members, there is  63% chance of recieving a rating between 1-4 with Vine members. For Non-Vine members there is a 58% chance to get a 5 star rating which is better than the 42% chance to get a 1-4 star rating. any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
+____________________________
+
+
+In my analysis I can see that the difference between the number of Vine member reviews vs Non-Vine members review  is 1,777,415. Overall it seems like there were more reviews for each star rating that exists among Non-Vine members. Its seems that Non-Vine members are more likely to rate with 5 stars than Vine members which starts to show a bias. Among the Non-Vine members they are 58% more likely to give a star rating. Non-Vine members show a  37.5%  rating for giving 5 stars. Overall it seems that there is a more favorable out come to recieve a 5 star rating from Non-Vine members, there is  63% chance of recieving a rating between 1-4 with Vine members. For Non-Vine members there is a 58% chance to get a 5 star rating which is better than the 42% chance to get a 1- 4 star rating. any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
