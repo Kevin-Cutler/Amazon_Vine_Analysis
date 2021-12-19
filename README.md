@@ -10,6 +10,8 @@ For this project we have been given approximately 50 datasets to analyze.  Each 
 
 * How many Vine reviews and non-Vine reviews were there?
 
+#### Vine Reviews = 4291
+#### Non- Vine Reviews = 1,781,706
 
 <img width="550" alt="Total_Number_Reviews" src="https://user-images.githubusercontent.com/88467263/146683410-74b70fdc-56ad-4070-80b5-31cbaa3b819e.PNG">
 
