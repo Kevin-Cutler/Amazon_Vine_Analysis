@@ -18,7 +18,10 @@ For this project we have been given approximately 50 datasets to analyze.  Each 
 
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-*
+
+#### 5 Star Vine Reviews = 1607
+#### Non-Vine 5 Star Reviews = 1,025,317
+
 
 <img width="550" alt="Number_of_five_star" src="https://user-images.githubusercontent.com/88467263/146683427-470374ab-17de-4b61-9b19-45b675b50fac.PNG">
 
