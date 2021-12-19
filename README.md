@@ -10,17 +10,20 @@ For this project we have been given approximately 50 datasets to analyze.  Each 
 
 * How many Vine reviews and non-Vine reviews were there?
 
-<img width="750" alt="Total_Number_Reviews" src="https://user-images.githubusercontent.com/88467263/146683410-74b70fdc-56ad-4070-80b5-31cbaa3b819e.PNG">
+
+<img width="550" alt="Total_Number_Reviews" src="https://user-images.githubusercontent.com/88467263/146683410-74b70fdc-56ad-4070-80b5-31cbaa3b819e.PNG">
 
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+*
 
-<img width="750" alt="Number_of_five_star" src="https://user-images.githubusercontent.com/88467263/146683427-470374ab-17de-4b61-9b19-45b675b50fac.PNG">
+<img width="550" alt="Number_of_five_star" src="https://user-images.githubusercontent.com/88467263/146683427-470374ab-17de-4b61-9b19-45b675b50fac.PNG">
 
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-<img width="750" alt="Percentage_fivestar review" src="https://user-images.githubusercontent.com/88467263/146683434-1f1ac489-99e1-449c-97c3-de4d4b0ebe85.PNG">
+
+<img width="650" alt="Percentage_fivestar review" src="https://user-images.githubusercontent.com/88467263/146683434-1f1ac489-99e1-449c-97c3-de4d4b0ebe85.PNG">
 
 
 
