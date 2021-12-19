@@ -40,4 +40,5 @@ In my analysis I will leverage Google Colab notebooks to perform the ETL process
 
 
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Summary: 
+In my analysis I can see that there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
